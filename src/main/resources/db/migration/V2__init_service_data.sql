@@ -1,6 +1,6 @@
 
-INSERT INTO Premium VALUES (1,"BASIC",0, 3, "베이직", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
-INSERT INTO Premium VALUES (2,"PREMIUM",5500, 10, "프리미엄", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
+INSERT INTO premium VALUES (1,"BASIC",0, 3, "베이직", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
+INSERT INTO premium VALUES (2,"PREMIUM",5500, 10, "프리미엄", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
 
 INSERT INTO icon_group VALUES (1,1,"TOAST","BUILTIN","보통맛","0","REGISTERED",  "타임토스트 제공 기본 토스트 아이콘","thumbnailImageUrl", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
 INSERT INTO icon VALUES (1,1,"toastImageUrl1", "2024-09-01 00:00:00.0", "2024-09-01 00:00:00.0");
